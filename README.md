@@ -1,5 +1,24 @@
 # vue-nuxt-app
 
+## Build Setting
+
+```.log
+✨  Generating Nuxt.js project in vue-nuxt-app
+? Project name: vue-nuxt-app
+? Programming language: TypeScript 
+? Package manager: Npm
+? UI framework: Vuetify.js
+? Nuxt.js modules: Progressive Web App (PWA)
+? Linting tools: ESLint, Prettier, StyleLint
+? Testing framework: Jest
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: (Press <space> to select, <a> to toggle all, <i> to invert selection)
+? Continuous integration: GitHub Actions (GitHub only)
+? What is your GitHub username? walk8243  
+? Version control system: Git
+```
+
 ## Build Setup
 
 ```bash
